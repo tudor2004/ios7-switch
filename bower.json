@@ -1,0 +1,15 @@
+{
+  "name": "ios7-switch",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mnmly/ios7-switch",
+  "description": "iOS7 styled switch",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
